@@ -1,0 +1,6 @@
+@TestApiGitHub_HostAddress = http://localhost:5277
+
+GET {{TestApiGitHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
