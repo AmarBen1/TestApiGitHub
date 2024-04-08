@@ -8,5 +8,9 @@ namespace TestApiGitHub.Controllers
         {
             return View();
         }
+        public IActionResult Index2()
+        {
+            return View();
+        }
     }
 }
